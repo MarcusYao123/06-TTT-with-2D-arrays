@@ -1,0 +1,14 @@
+public class Player{
+
+  /////////
+  // Properties
+  /////////
+
+  /////////////
+  // Constructors
+  /////////////
+
+  /////////////
+  // Methods
+  /////////////
+}
