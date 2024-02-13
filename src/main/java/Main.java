@@ -27,9 +27,17 @@ For more in the future and more awesomer...
 5) You can make a new class for a turn, or a piece, or a screen painter
 */
 // Marcus Yao
-// 2/13/24
+// 2/13/24f
 
 public class Main {
+  public static final int[][] STATE = {
+    {0,0,0},
+    {0,0,0},
+    {0,0,0}
+    
+  };
+    
+  
   public static void main(String[] args) {
     new Player();
     System.out.println("TTT - RAN WITHOUT ERRORS");
